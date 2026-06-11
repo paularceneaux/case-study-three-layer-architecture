@@ -78,7 +78,7 @@ The AI does what it's good at — reading, writing, judging. Code does what *it'
 
 When a business owner asks me "can I actually trust AI to run part of my operation?", this is my answer. You don't trust the *model* — you trust the *architecture around it*: judgment to the AI, mechanics to deterministic code, and a human in command of anything that can't be undone. That's the difference between a flashy demo and a system you can put real work through.
 
-**Snap2Flow** builds enterprise-grade automation and AI systems for small and mid-sized businesses. → [snap2flow.com](https://snap2flow.com) · [LinkedIn](https://www.linkedin.com/in/paularceneaux)
+**Snap2Flow** builds enterprise-grade automation and AI systems for small and mid-sized businesses. → [snap2flow.com](https://snap2flow.com) · [LinkedIn](https://www.linkedin.com/in/paularceneauxofficial/)
 
 ---
 
